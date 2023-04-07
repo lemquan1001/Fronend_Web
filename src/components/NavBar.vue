@@ -23,7 +23,7 @@
           text-align: center;
         "
       >
-        <h4>ANNA SHOP</h4>
+        <h4>ANNA SHOP 1234</h4>
       </div>
   
       <v-spacer></v-spacer>

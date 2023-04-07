@@ -7,7 +7,7 @@
               <h3>Giới thiệu</h3>
             </v-card-text>
             <v-card-text class="grey--text pt-0">
-              Kính mắt thời trang Chasmish là thương hiệu uy tín,<br />
+              Kínhasaass mắt thời trang Chasmish là thương hiệu uy tín,<br />
                chất lượng tại Việt Nam phục vụ nhu cầu mua<br /> sắm online và trực tuyến trên toàn quốc
 
             </v-card-text>

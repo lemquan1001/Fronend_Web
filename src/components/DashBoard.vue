@@ -10,7 +10,7 @@
       >
         <v-row>
           <v-col cols="12" sm="12">
-            <h4 class="text-center">MEN'S LIFESTYLE SHOES</h4>
+            <h4 class="text-center">MEN'S LIFESTYLE SHOES QUANNNN</h4>
           </v-col>
           <v-col cols="12" sm="12">
             <v-breadcrumbs :items="items" class="justify-center mt-n7" dark>
